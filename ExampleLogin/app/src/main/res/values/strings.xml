@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ExampleLogin</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="general_information">Clique no botão para fazer login no Facebook!</string>
+    <string name="facebook_login">Login with Facebook</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_id">800034836725582</string>
+    <string name="update_status">Update Status</string>
+    <string name="post_image">Post Image</string>
+
+</resources>
